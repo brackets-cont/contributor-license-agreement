@@ -1,0 +1,32 @@
+<svg fill="none"  height="70" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+                .myButton {
+                    background-color:#c74545;
+                    border-radius:28px;
+                    border:1px solid #ab1919;
+                    display:inline-block;
+                    cursor:pointer;
+                    color:#ffffff;
+                    font-family:Arial;
+                    font-size:17px;
+                    padding:16px 31px;
+                    text-decoration:none;
+                    text-shadow:0px 1px 0px #66284b;
+                }
+                .myButton:hover {
+                    background-color:#bd2c2c;
+                }
+                .myButton:active {
+                    position:relative;
+                    top:1px;
+                }
+
+			</style>
+			<div class="container">
+				<a href="#" class="myButton">Raise issue to revoke my CLA</a>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
