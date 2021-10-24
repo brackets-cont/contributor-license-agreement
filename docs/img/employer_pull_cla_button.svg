@@ -1,0 +1,32 @@
+<svg fill="none"  height="100" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+                .myButton {
+                    background-color:#33bdef;
+                    border-radius:28px;
+                    border:1px solid #057fd0;
+                    display:inline-block;
+                    cursor:pointer;
+                    color:#ffffff;
+                    font-family:Arial;
+                    font-size:17px;
+                    padding:16px 31px;
+                    text-decoration:none;
+                    text-shadow:0px 1px 0px #5b6178;
+                }
+                .myButton:hover {
+                    background-color:#019ad2;
+                }
+                .myButton:active {
+                    position:relative;
+                    top:1px;
+                }
+
+			</style>
+			<div class="container">
+				<a href="#" class="myButton">Click here to raise a pull request and add your name to the CLA</a>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
