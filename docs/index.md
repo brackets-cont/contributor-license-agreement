@@ -1,4 +1,4 @@
-# core.ai Contributor License Agreement(CLA)
+# Brackets Community Contributor License Agreement(CLA)
 
 Thank you for contributing  to our community. We welcome you to sign the contributor license agreement. The CLA can be signed in **either** personal capacity or on behalf of your employer. Please choose an appropriate agreement to sign(you can only sign one).
 ## How do I sign the CLA in personal capacity?
@@ -23,6 +23,6 @@ Please raise an issue if you would like to revoke your CLA with the following de
 * Mention your GitHub id.
 
 <p align="center">
-<a href="https://github.com/aicore/contributor-license-agreement/issues/new"><img src="img/revoke_cla_button.svg" /></a>
+<a href="https://github.com/brackets-cont/contributor-license-agreement/issues/new"><img src="img/revoke_cla_button.svg" /></a>
 </p>
 
