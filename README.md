@@ -9,5 +9,3 @@ Thank you for contributing  to our community. We welcome you to [sign the contri
 <p align="center">
 <a href="https://brackets-cont.github.io/contributor-license-agreement/"><img src="docs/img/sign_cla_button.svg" alt="Click here to sign the CLA"/></a>
 </p>
-
-Test welcome bot
