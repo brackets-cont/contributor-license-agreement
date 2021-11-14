@@ -1,4 +1,4 @@
-name: Print pull request details.
+name: Enforce CLA Signature
 # https://docs.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions#github-context
 
 on: 
