@@ -80,3 +80,4 @@ I agree with all the terms and conditions above by providing my details in **tab
 | Name (“You”) | Github ID | Date |
 | --- | --- | --- |
 | `Dhanesh P S`| [psdhanesh7](https://github.com/psdhanesh7) |13-November-2021|
+| `Arun Bose`| [abose](https://github.com/abose) |17-November-2021|
