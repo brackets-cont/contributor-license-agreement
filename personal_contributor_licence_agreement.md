@@ -77,7 +77,7 @@ This CLA is effective as of the latest signature date below.
 I agree with all the terms and conditions above by providing my details in **table-A** and submitting a pull request to the [contributor-license-agreement](https://github.com/brackets-cont/contributor-license-agreement) repository. The agreement is effective as on the date provided against my name in **table-a** as soon as the pull request is raised against [contributor-license-agreement](https://github.com/brackets-cont/contributor-license-agreement) repository. I affirm that the pull request is raised from my Github ID listed against my name in **table-a**.
  
 ## **Table-A**: Signed by
-| Name (“You”) | Github ID | Date |
+| `Mansi Sharma` | [mansi173-sharma](https://github.com/mansi173-sharma) |03-February-2022 |
 | --- | --- | --- |
 | `Dhanesh P S`| [psdhanesh7](https://github.com/psdhanesh7) |13-November-2021|
 | `Arun Bose`| [abose](https://github.com/abose) |17-November-2021|
