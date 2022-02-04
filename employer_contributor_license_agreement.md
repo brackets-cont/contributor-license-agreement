@@ -78,5 +78,5 @@ I agree with all the terms and conditions above by providing my details in **tab
 ## **Table-A**: Signed by
 
 | Name (“You”) | Github ID | Employer | Country | Date |
-| --- | --- | --- | --- | --- |
+| Mandeep Punia | Mandeep08punia | core.ai | India | 4/2/22 |
 
