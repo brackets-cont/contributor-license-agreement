@@ -78,5 +78,9 @@ I agree with all the terms and conditions above by providing my details in **tab
 ## **Table-A**: Signed by
 
 | Name (“You”) | Github ID | Employer | Country | Date |
-| --- | --- | --- | --- | --- |
+| `Dhanesh P S`| [psdhanesh7](https://github.com/psdhanesh7) |13-November-2021|
+| `Arun Bose`| [abose](https://github.com/abose) |17-November-2021|
+| `Tato and Tato Only` | [TatoAndTatoOnly](https://github.com/TatoAndTatoOnly) |28-January-2022 |
+| `Mansi Sharma` | [mansi173-sharma](https://github.com/mansi173-sharma) |03-February-2022 |
+| `Mandeep Punia` | [Mandeep08punia](https://github.com/Mandeep08punia) |04-February-2022 |
 
