@@ -79,4 +79,4 @@ I agree with all the terms and conditions above by providing my details in **tab
 
 | Name (“You”) | Github ID | Employer | Country | Date |
 | --- | --- | --- | --- | --- |
-
+| `brackets.io bot` | [brackets.io bot](https://github.com/brackets-io) | Excempted CI/CD/Automation account. |India |26-may-2021|
