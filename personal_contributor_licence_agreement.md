@@ -87,3 +87,4 @@ I agree with all the terms and conditions above by providing my details in **tab
 | `Jungmin Yoon` | [lego37yoon](https://github.com/lego37yoon) |10-April-2022 |
 | `Christyan Brayan` | [christyanbrayan](https://github.com/christyanbrayan) |16-April-2022 |
 | `Niccolo Scanu` | ScanuNicco(https://github.com/ScanuNicco| 19-May-2022 |
+| `Stella Wood` | [StellaStuff](https://github.com/StellaStuff)| 16-July-2022 |
