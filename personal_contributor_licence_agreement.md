@@ -88,3 +88,4 @@ I agree with all the terms and conditions above by providing my details in **tab
 | `Christyan Brayan` | [christyanbrayan](https://github.com/christyanbrayan) |16-April-2022 |
 | `Niccolo Scanu` | [ScanuNicco](https://github.com/ScanuNicco)| 19-May-2022 |
 | `Stella Wood` | [StellaStuff](https://github.com/StellaStuff)| 16-July-2022 |
+| `Ikko Ashimine` | [eltociear](https://github.com/eltociear)| 15-August-2022 |
