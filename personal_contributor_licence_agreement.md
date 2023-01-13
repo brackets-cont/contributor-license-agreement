@@ -89,3 +89,4 @@ I agree with all the terms and conditions above by providing my details in **tab
 | `Niccolo Scanu` | [ScanuNicco](https://github.com/ScanuNicco)| 19-May-2022 |
 | `Stella Wood` | [StellaStuff](https://github.com/StellaStuff)| 16-July-2022 |
 | `Ikko Ashimine` | [eltociear](https://github.com/eltociear)| 15-August-2022 |
+| `Kiril (lime360) Misnikov ` | [lime360](https://github.com/lime360)| 13-January-2023 |
